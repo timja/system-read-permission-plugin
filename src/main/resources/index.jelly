@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    System read permission plugin
+</div>
